@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1024950698087",
+    "firebase_url": "https://drug-a3da8-default-rtdb.firebaseio.com",
+    "project_id": "drug-a3da8",
+    "storage_bucket": "drug-a3da8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024950698087:android:4efbf5dd4b328a241e14c2",
+        "android_client_info": {
+          "package_name": "com.example.drugcare_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ8aoAO10n3mGdU5chiiJFMvpiXm4GLAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
